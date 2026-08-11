@@ -40,7 +40,7 @@ Open LM Studio and search for Gemma or Qwen or any other preferred model (we rec
 
 Go to the Local Server tab (the < > icon on the left).
 
-Select your downloaded Gemma model at the top.
+Select your downloaded model at the top.
 
 Click Start Server. (Ensure it is running on http://localhost:1234/v1).
 
